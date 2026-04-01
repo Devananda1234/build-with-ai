@@ -52,7 +52,7 @@ Explain clearly how AI is integrated into your project.
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-![AI Proof](./proof/screenshot1.png)
+![AI Proof](./https://github.com/Devananda1234/build-with-ai/blob/main/Screenshot%202026-04-01%20071104.png)
 
 ---
 
