@@ -60,7 +60,7 @@ Attach screenshots in a `/proof` folder:
 Add project screenshots:
 
 ![Screenshot1](./https://github.com/Devananda1234/build-with-ai/blob/main/Screenshot%202026-04-01%20042317.png)  
-![Screenshot2](./assets/screenshot2.png)
+![Screenshot2](./https://github.com/Devananda1234/build-with-ai/blob/main/Screenshot%202026-04-01%20042333.png)
 
 ---
 
